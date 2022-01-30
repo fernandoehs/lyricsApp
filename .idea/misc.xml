@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/drawable/ic_album.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/layout/activity_lyrics.xml" value="0.4" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/layout/activity_main.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/layout/activity_saved_lyrics.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/layout/activity_saved_lyrics_details.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/layout/content_main.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/layout/content_saved_lyrics.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/layout/details_card.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/layout/saved_lyrics_list_item.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/layout/search_list_item.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/menu/lyrics_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/menu/menu_saved_lyrics_details.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/Anayoou/Desktop/lyrics/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/drawable-v24/ic_person.xml" value="0.2203125" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/drawable-v24/ic_profile.xml" value="0.2203125" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/drawable/ic_album.xml" value="0.2203125" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/drawable/ic_close.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/drawable/ic_person.xml" value="0.2203125" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/drawable/ic_search.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/layout/activity_lyrics.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/layout/activity_saved_lyrics.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/layout/activity_saved_lyrics_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/layout/content_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/layout/content_saved_lyrics.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/layout/details_card.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/layout/saved_lyrics_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/layout/search_list_item.xml" value="0.5" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/menu/menu_lyrics.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/menu/menu_main.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkpadT440p/Desktop/test-android/lyrics-25991e12d1313d12f4eb2f219a21afa5fd7f566c/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
